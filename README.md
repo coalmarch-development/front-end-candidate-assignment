@@ -10,7 +10,7 @@ This is a take home assignment to give us a better understanding of where your s
   - The design is based off of a **1200px grid**.
     - For reference, this [site](https://1200px.com/) explains the layout of a 1200px grid.
   - The images used in the template are found under the `Assets` folder.
-  - The dimensions of the elements on the page are not provided, so just use your best judgment on what you think they should be.
+  - The dimensions of the elements on the page including padding and margins are available via the Zeplin.io link you should have recieved.
 
 - Once finished, you may submit the project to github and send us an email with a link to the repository containing your finished assignment.
 
@@ -21,6 +21,7 @@ This is a take home assignment to give us a better understanding of where your s
   - Doesn't have to be anything fancy. It could be as simple as just having some simple DOM manipulation (i.e. change the color of an element on hover), but extra bling definitely wouldn't hurt.
   - You can use vanilla JavaScript, React, Angular, Vue, jQuery, or any other JavaScript flavor to achieve this.
 - The page **must** be responsive.
+- The page **must** inlcude a mobile menu.
 
 ## Notes
 
