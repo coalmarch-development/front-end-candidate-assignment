@@ -10,7 +10,7 @@ This is a take home assignment to give us a better understanding of where your s
   - The design is based off of a **1200px grid**.
     - For reference, this [site](https://1200px.com/) explains the layout of a 1200px grid.
   - The images used in the template are found under the `Assets` folder.
-  - The dimensions of the elements on the page including padding and margins are available via the Zeplin.io link you should have recieved.
+  - The dimensions of the elements on the page including padding and margins are available via the Zeplin.io link you should have received.
 
 - Once finished, you may submit the project to github and send us an email with a link to the repository containing your finished assignment.
 
