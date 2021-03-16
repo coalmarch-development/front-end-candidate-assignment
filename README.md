@@ -14,7 +14,7 @@ This is a take home assignment to give us a better understanding of where your s
 
 ## Requirements
 
-- The page **must** be written using a SASS/LESS preprocessor.
+- The page **must** be written using a SASS preprocessor.
 - The page **must** use some sort of JavaScript to alter at least one element on the page.
   - Doesn't have to be anything fancy. It could be as simple as just having some simple DOM manipulation (i.e. change the color of an element on hover), but extra bling definitely wouldn't hurt.
   - You can use vanilla JavaScript, React, Angular, Vue, jQuery, or any other JavaScript flavor to achieve this.
